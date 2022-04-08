@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Pay Now"),
+        title: Text("Flutter Barcode Scanner App"),
       ),
       body: Center(
         child: Text(
