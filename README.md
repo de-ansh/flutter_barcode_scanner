@@ -1,6 +1,6 @@
 # Flutter QRCode Scanner APP
 
-![Image](fa.png)
+
 
 ### Show some :heart: and star the repo to support the project
 
